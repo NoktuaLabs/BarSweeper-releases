@@ -35,6 +35,7 @@ Et aussi :
 - les icônes de macOS : modules du Centre de contrôle, Time Machine, Siri, Saisie de texte… ;
 - l'ordre des icônes visibles se change par glisser-déposer, en direct dans la vraie barre ;
 - plusieurs écrans, ouverture à la session, icône du balai au choix (ou votre propre image) ;
+- un thème clair, sombre ou celui du système pour les réglages (la barre additionnelle suit toujours la barre des menus) ;
 - un volet Entretien pour retirer les entrées périmées de « Autoriser dans la barre des menus » ;
 - quand vous quittez BarSweeper, chaque icône retrouve l'état où il l'avait trouvée.
 
